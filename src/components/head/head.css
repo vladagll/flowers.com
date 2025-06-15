@@ -1,0 +1,11 @@
+.head {
+    height: 20px;
+    position: fixed;
+    top: 0;
+}
+
+img {
+    padding-left: 20%;
+    width: auto;
+    display: inline-block;
+}

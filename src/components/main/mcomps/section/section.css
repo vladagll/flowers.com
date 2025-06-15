@@ -1,0 +1,10 @@
+.section {
+    grid-area: section;
+    background-color: rgba(239, 58, 255, 0.61);
+    width: 20vw;
+}
+
+a {
+    display: flex;
+    color: blue;
+}
